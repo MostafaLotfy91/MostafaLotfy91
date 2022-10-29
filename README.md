@@ -1,7 +1,6 @@
 - Hi, I’m Mostafa Lotfy
 - Interested in programming language 
-- UI Developer and Front End Developer
-- I’m looking to collaborate on Front End Development
+-Java Back-End Developer 
 - My gmail (mostafalotfy911999@gmail.com)
 - Whatsapp (01090680867)
 
